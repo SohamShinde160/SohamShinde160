@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Soham S Shinde :)
-<h3 align="center">A passionate for creating innovative solutions and exploring new technologies.</h3>
+<h3 align="center">Passionate for creating innovative solutions🚀 and exploring new technologies.👨‍💻</h3>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=Explore+=>+Learn+=>+Code...;Always+Trying+to+Figured+Out+Best+Things.;Welcome+To+My+Profile...)](https://git.io/typing-svg)
