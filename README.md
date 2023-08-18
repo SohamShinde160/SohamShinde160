@@ -17,7 +17,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sohamsshinde1" target="blank"><img src="https://img.shields.io/twitter/follow/@sohamsshinde1?logo=twitter&style=for-the-badge" alt="@sohamsshinde1" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Javascript ,React JS**
 
 - 📫 How to reach me **shindesoham390@gmail.com**
 
