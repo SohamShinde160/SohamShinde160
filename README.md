@@ -1,4 +1,14 @@
-<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Soham S Shinde :)
+
+<h1 align="center">
+	<a target="_blank">  
+    <img src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/Earth.gif" width="24px" style="max-width:100%;">
+  </a>
+	Hi 
+	<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">
+	, I'm Soham S Shinde :)
+	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" style="max-width:100%;">
+  
+</h1>
 <h3 align="center">Passionate for creating innovative solutions🚀 and exploring new technologies.👨‍💻</h3>
 
 
@@ -17,6 +27,8 @@
 
 <p align="left"> <a href="https://twitter.com/@sohamsshinde1" target="blank"><img src="https://img.shields.io/twitter/follow/@sohamsshinde1?logo=twitter&style=for-the-badge" alt="@sohamsshinde1" /></a> </p>
 
+<h2><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40">About: </h2>
+
 - 🌱 I’m currently learning **Javascript ,React JS**
 
 - 📫 How to reach me **shindesoham390@gmail.com**
@@ -25,7 +37,7 @@
 
 - ⚡ Fun fact **I prefer to use underscore instead of spaces.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@sohamsshinde1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sohamsshinde1" height="30" width="40" /></a>
 </p>
@@ -37,12 +49,25 @@
 
 
 
-<p align="center" ><img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SohamShinde160&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="SohamShinde160" /></p>
-
-
- # 📈 Stats
+ # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Stats
 <p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SohamShinde160&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SohamShinde160&theme=tokyonight" />
+  <a href="https://git.io/streak-stats">
+     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=SohamShinde160&theme=ads-juicy-fresh" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=ads-juicy-fresh" /></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SohamShinde160&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SohamShinde160&theme=github_dark" />
+   <br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SohamShinde160&theme=github_dark" />
+</a>    
+</p>
+<p></p>
+
+ <br></br>
