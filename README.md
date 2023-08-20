@@ -39,7 +39,8 @@
 
 <h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@sohamsshinde1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sohamsshinde1" height="30" width="40" /></a>
+	
+<a href="https://twitter.com/@sohamsshinde1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sohamsshinde1" height="30" width="40" /></a> <a href="https://replit.com/@Soham-SS1" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png" alt="replit account" height="30" width="30"/></a> <a href="https://codesandbox.io/u/shindesoham390" target="_blank"><img align="center" src="https://ph-files.imgix.net/5be8c1b8-f78d-4ca7-b76e-7951490ba063.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=64&h=64&fit=crop&dpr=1" alt="replit account" height="30" width="30"/></a>    <a href="https://app.netlify.com/teams/sohamshinde160/overview" target="_blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="replit account" height="30" width="30"/></a> <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo-500x281.png" alt="replit account" height="30" width="60"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
