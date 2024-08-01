@@ -29,7 +29,7 @@
 
 <h2><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40">About: </h2>
 
-- 🌱 I’m currently learning **Nodejs ^& Expressjs (Backend)**
+- 🌱 I’m currently learning **Nodejs & Expressjs (Backend)**
 
 - 📫 How to reach me **shindesoham390@gmail.com**
 
